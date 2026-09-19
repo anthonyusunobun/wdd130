@@ -80,6 +80,4 @@ header, .grid, footer {
     grid-template-columns: 1fr;
   }
   aside { width: auto; }
-  nav { flex-wrap: wrap; }
-  nav a { font-size: 0.85rem; padding: 0.3rem; }
-}
+  }
