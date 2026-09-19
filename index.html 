@@ -17,12 +17,12 @@
   </header>
   <main>
     <h1>Usunobun Anthony | WDD 130</h1>
-    <img src="images/profile.jpg" alt="Hello, my name is Usunobun Anthony" width="200">
+    <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" alt="Hello, my name is Usunobun Anthony" width="200"> 
     <p>Hello! My name is Usunobun Anthony and I am from Aba, Nigeria. I enjoy learning web development and building websites.</p>
   </main>
   <aside>
     <h2>Nigeria</h2>
-    <img src="images/nigeria.jpg" alt="Beautiful view of Nigeria">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Flag_of_Nigeria_%283-2%29.svg/800px-Flag_of_Nigeria_%283-2%29.svg.png" alt="Beautiful view of Nigeria"> 
     <p>Nigeria is a country in West Africa known for its rich culture, diverse people, and beautiful landscapes from beaches to savannas.</p>
   </aside>
   <footer>
