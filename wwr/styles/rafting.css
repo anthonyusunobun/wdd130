@@ -21,8 +21,8 @@ h1, h2 { font-family: var(--heading-font); color: var(--primary-color); }
 section { margin:16px; padding:8px; }
 section h2 { border-bottom:2px solid var(--secondary-color); padding-bottom:4px; }
 footer { display:flex; justify-content:space-between; align-items:center; background:#f1f1f1; padding:16px; margin-top:20px; }
-.socialmedia a { text-decoration:none; margin-left:8px; }
-.socialmedia img { width:24px; height:24px; }
+.sociallinks a { text-decoration:none; margin-left:8px; }
+.sociallinks img { width:24px; height:24px; } 
 
 /* mobile fix */
 @media (max-width:600px){
