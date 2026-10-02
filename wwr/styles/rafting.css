@@ -134,3 +134,62 @@ footer p {
   width: 40px;
   height: auto;
   }
+/* Contact Us Page - W05 */
+.contact-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+    margin: 2rem;
+    align-items: start;
+}
+.contact-grid form {
+    display: flex;
+    flex-direction: column;
+    gap: 0.8rem;
+    background: #f2f2f2;
+    padding: 1.5rem;
+    border-radius: 8px;
+}
+.contact-grid input[type="text"],
+.contact-grid input[type="email"],
+.contact-grid textarea {
+    padding: 0.5rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+.contact-grid button[type="submit"] {
+    background-color: #264653;
+    color: white;
+    padding: 0.8rem;
+    border: none;
+    border-radius: 5px;
+    font-size: 1.1rem;
+    cursor: pointer;
+}
+.contact-grid button[type="submit"]:hover {
+    background-color: #2a9d8f;
+}
+.map iframe {
+    width: 100%;
+    height: 300px;
+    border: 1px solid #ccc;
+}
+.employees {
+    margin: 2rem;
+    text-align: center;
+}
+.employee-profiles {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+.employee-profiles figure {
+    max-width: 200px;
+}
+.employee-profiles img {
+    width: 100%;
+    border-radius: 8px;
+}
+
+
