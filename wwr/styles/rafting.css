@@ -191,5 +191,11 @@ footer p {
     width: 100%;
     border-radius: 8px;
 }
-
+.socialmedia a { text-decoration: none; }
+.socialmedia img { width: 22px; height: auto; }
+footer a { color: white; }
+header, main, footer { 
+  width: 840px; 
+  margin: 0 auto; 
+  }
 
